@@ -1,0 +1,6 @@
+order_id,date,region,product,quantity,price
+4001,2025-04-03,East,Widget A,3,19.99
+4002,2025-04-06,West,Widget B,6,24.99
+4003,2025-04-10,North,Widget C,2,29.99
+4004,2025-04-14,South,Widget A,4,19.99
+4005,2025-04-18,East,Widget B,3,24.99

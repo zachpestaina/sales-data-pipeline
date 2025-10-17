@@ -1,0 +1,6 @@
+order_id,date,region,product,quantity,price
+5001,2025-05-02,West,Widget A,2,19.99
+5002,2025-05-05,South,Widget C,3,29.99
+5003,2025-05-09,East,Widget A,4,19.99
+5004,2025-05-13,North,Widget B,1,24.99
+5005,2025-05-20,West,Widget C,2,29.99

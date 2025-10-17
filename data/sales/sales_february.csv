@@ -1,0 +1,6 @@
+order_id,date,region,product,quantity,price
+2001,2025-02-02,East,Widget A,6,19.99
+2002,2025-02-06,West,Widget C,2,29.99
+2003,2025-02-10,North,Widget B,3,24.99
+2004,2025-02-14,South,Widget C,1,29.99
+2005,2025-02-20,West,Widget A,5,19.99
